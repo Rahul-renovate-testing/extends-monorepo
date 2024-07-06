@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@accounts/apollo-link": "0.32.0",
+    "@accounts/authenticator-otp": "0.25.0"
+  }
+}
