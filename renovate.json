@@ -1,0 +1,8 @@
+{
+  "packageRules": [
+    {
+      "extends": ["monorepo:accounts"],
+      "addLabels": ["accounts-js"]
+    }
+  ]
+}
