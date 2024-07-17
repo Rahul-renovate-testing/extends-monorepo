@@ -1,7 +1,7 @@
 {
   "packageRules": [
     {
-      "extends": ["monorepo:accounts", "monorepo:acot"],
+      "extends": ["monorepo:accounts"],
       "addLabels": ["accounts-js"]
     }
   ]
