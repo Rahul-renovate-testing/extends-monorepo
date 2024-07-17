@@ -1,5 +1,5 @@
 {
-  "extends": ["group:accountsMonorepo"],
+  "extends": ["group:accountsMonorepo", "group:vite"],
   "packageRules": [
     {
       "extends": ["monorepo:accounts"],
