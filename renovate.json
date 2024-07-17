@@ -1,4 +1,5 @@
 {
+  "extends": ["group:accountsMonorepo"],
   "packageRules": [
     {
       "extends": ["monorepo:accounts"],
